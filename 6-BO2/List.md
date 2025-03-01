@@ -1,0 +1,14 @@
+These are the Cbuf_addText for BO2 on disc and latest update.
+
+#Retail Items
+
+x - Disc Campaign
+x - Disc MP
+
+x - TU18 Campaign
+0x824015E0 - TU18 MP
+
+#Developer Builds
+
+0x825665f8 - RFAZIO Campaign Debug exe
+0x825e47f0 - RFAZIO MP Debug exe

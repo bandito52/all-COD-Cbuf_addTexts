@@ -1,2 +1,4 @@
 # all-COD-cats
-List of Cbuf_addText for every COD game.
+Every Cbuf_addText for every COD game including dev builds.
+
+List will be updated as each game gets suggested and or tested.

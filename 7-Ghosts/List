@@ -1,15 +1,9 @@
-These are the Cbuf_addText for Ghosts on disc, latest update, and dev builds.
+These are the Cbuf_addText for Ghosts.
 
+$ = Not tested!
 
-#Retail Items
-
-x - Disc Version Campaign
-
-x - Disc Version MP
-
-x - Latest Update Campaign
-
-x - Latest Update MP
+0x823BC588 - $ Disc Campaign
+0x82414A80 - $ Disc MP
 
 #Developer Builds
 

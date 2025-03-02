@@ -1,9 +1,9 @@
 # all-COD-Cbuf_addTexts
 Every Cbuf_addText for every Xbox 360 COD game including dev builds.
 
-List will be updated as each game gets suggested and or tested.
+*Last update: March 1, 2025*
 
-[Disc List](https://github.com/bandito52/all-COD-cats/blob/main/master-discs)
+[Whats been recently added?](https://github.com/bandito52/all-COD-cats/blob/main/master-discs)
 
 # You, yes You!
 

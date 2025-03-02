@@ -1,0 +1,72 @@
+These are the Cbuf_addText for every disc copy of Xbox 360 COD.
+
+This list will take time to be updated.
+
+Last updated: March 1, 2025
+
+$ = Not tested!
+
+
+
+NX1
+
+0x822c8c20 - NX1 5-MP-Demo.exe
+
+
+
+COD4
+
+Currently empty.
+
+
+
+WAW
+
+Currently empty.
+
+
+
+MW2
+
+Currently empty.
+
+
+
+BO1
+
+Currently empty.
+
+
+
+MW3
+
+Currently empty.
+
+
+
+BO2
+
+0x822ff6e8 - Greenlight DefaultMpPatch.xex
+
+0x825665f8 - $ RFAZIO CODSP.exe
+0x825e47f0 - RFAZIO CODMP.exe
+
+
+Ghosts
+
+0x82385190 - May 9, 2013 default_mp.xex
+
+0x823c3d70 - May 21, 2013 default_mp.xex
+
+
+
+AW
+
+Currently empty.
+
+
+
+NOTES
+
+Ghosts May 21, 2013 MP xex has no load commands to load maps. 
+It appears as though some commands were cut out for unknown reasons.

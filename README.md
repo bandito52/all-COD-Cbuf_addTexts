@@ -5,7 +5,7 @@ List will be updated as each game gets suggested and or tested.
 
 # You, yes You!
 
-Got a patch? new build executable? or a COD that isnt listed?
+Got a patch? new build executable? or a COD/executable that isnt listed?
 Make an issue here with the file/link and it can be added!
 
 

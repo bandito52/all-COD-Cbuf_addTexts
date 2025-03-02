@@ -3,7 +3,9 @@ Every Cbuf_addText for every Xbox 360 COD game including dev builds.
 
 *Last update: March 1, 2025*
 
-[Whats been recently added?](https://github.com/bandito52/all-COD-Cbuf_addTexts/releases)
+[Recently added!](https://github.com/bandito52/all-COD-Cbuf_addTexts/releases)
+
+[Support Disclaimer](https://github.com/bandito52/all-COD-Cbuf_addTexts/issues/1)
 
 # You, yes You!
 

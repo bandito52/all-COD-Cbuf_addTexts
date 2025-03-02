@@ -1,7 +1,13 @@
 # all-COD-cats
-Every Cbuf_addText for every COD game including dev builds.
+Every Cbuf_addText for every Xbox 360 COD game including dev builds.
 
 List will be updated as each game gets suggested and or tested.
+
+# You, yes You!
+
+Got a patch? new build executable? or a COD that isnt listed?
+Make an issue here with the file/link and it can be added!
+
 
 # Credit
 Credit to Heaventh for helping show me how to grab these.

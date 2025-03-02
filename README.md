@@ -7,18 +7,14 @@ List will be updated as each game gets suggested and or tested.
 
 # You, yes You!
 
-Got a patch? new build executable? or a COD/executable that isnt listed?
-Make an issue here with the file/link and it can be added!
+Got a patch or an executable that is new/not listed?
+Let me know [HERE](https://github.com/bandito52/all-COD-cats/issues)
 
 
 # Credit
 Credit to Heaventh for helping show me how to grab these.
 
-# Status
-Only ones posted so far:
+# Status - March 1, 2025
+All discs except BO3 have been added.
 
-BO2
-
-NX1
-
-Ghosts
+Some dev builds are listed for BO2, NX1, and Ghosts. More soon!

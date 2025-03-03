@@ -28,7 +28,12 @@ Currently empty.
 
 MW2
 
-Currently empty.
+0x82275CE8 - 07-13-2009 Alpha default.xex
+0x8226F590 - 07-13-2009 Alpha default_mp.xex
+
+0x82350B90 - $ 07-13-2009 Alpha 1-iw4sp.exe
+0x8235D328 - 07-13-2009 Alpha 2-iw4mp.exe
+
 
 
 
@@ -51,6 +56,16 @@ BO2
 0x825665f8 - $ RFAZIO CODSP.exe
 0x825e47f0 - RFAZIO CODMP.exe
 
+0x82369CE8 - July 20, 2012 default_mp.xex
+0x82369CE8 - July 20, 2012 Default_mp-Alpha-NoWhitelistNoAC.xex
+0x8250F1C8 - July 20, 2012 CODMP.exe
+
+0x8236AC98 - July 23, 2012 default_mp.xex
+0x8236AC98 - July 23, 2012 default_mp_patched.xex
+0x8250F1C8 - July 23, 2012 CODMP.exe
+0x825100A0 - July 23, 2012 CODMP_patch.exe
+
+
 
 Ghosts
 
@@ -62,7 +77,11 @@ Ghosts
 
 AW
 
-Currently empty.
+0x82406FB8 - Sep 16, 2014 default.xex
+0x824A1A48 - Sep 16, 2014 default_mp.xex
+0x826B5898 - Sep 16, 2014 1-s1_sp.exe
+0x82814018 - Sep 16, 2014 2-s1_mp.exe
+
 
 
 

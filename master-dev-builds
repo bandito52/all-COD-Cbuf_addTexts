@@ -16,13 +16,21 @@ NX1
 
 COD4
 
-Currently empty.
+0x8219E9E0 - March 27, 2007 default.xex
+0x82183458 - March 27, 2007 default_mp.xex
+
+0x821B4E08 - May 4, 2007 default.xex
+0x82178810 - May 4, 2007 default_mp.xex
 
 
 
 WAW
 
-Currently empty.
+0x821E6568 - March 20, 2007 default.xex (No maps load)
+0x821AD6F0 - March 20, 2007 default_mp.xex
+
+0x82218DB8 - May 11, 2007 defaultmp.xex
+0x821D0BB8 - May 11, 2007 default_mp.xex (No maps load)
 
 
 
@@ -69,8 +77,10 @@ BO2
 
 Ghosts
 
+0x82385190 - May 9, 2013 default.xex
 0x82385190 - May 9, 2013 default_mp.xex
 
+0x823880F0 - May 21, 2013 default.xex
 0x823c3d70 - May 21, 2013 default_mp.xex
 
 

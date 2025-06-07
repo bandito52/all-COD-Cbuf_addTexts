@@ -15,8 +15,3 @@ Let me know [HERE](https://github.com/bandito52/all-COD-cats/issues)
 
 # Credit
 Credit to Heaventh for helping show me how to grab these.
-
-# Status - March 1, 2025
-All discs except BO3 have been added.
-
-Some dev builds are listed for BO2, NX1, and Ghosts. More soon!
